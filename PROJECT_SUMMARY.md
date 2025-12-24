@@ -128,5 +128,5 @@ python hand_tracker.py
 
 ---
 
-**Created for Arvyax Internship Application**  
+
 **Date**: December 2, 2025
